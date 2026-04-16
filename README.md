@@ -24,7 +24,11 @@ mixed date formats and added spend segmentation.
 🔗 [View Project](https://github.com/Zekyinfotech/data-cleaning-project)
 
 ---
+### 3. **Fraud Detection Analysis**  
+Advanced fraud detection analysis pipeline using machine learning on the IEEE-CIS Fraud Detection dataset, with emphasis on PR-AUC optimization, SHAP explainability, and production-ready features.  
+🔗 [View Project](https://github.com/Zekyinfotech/fraud-detection-analysis)  
 
+---
 ## 🛠 Tools & Skills
 - Python | Pandas | NumPy
 - Data Cleaning | Dashboard Design
